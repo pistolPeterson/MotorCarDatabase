@@ -15,7 +15,7 @@ public class GetData {
 	 return JOptionPane.showInputDialog(s);
 	 }
 
-	
+	//get data class
 	
 	
 	
